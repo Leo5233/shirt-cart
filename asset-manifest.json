@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shirt-cart/static/css/main.7efdcee1.chunk.css",
+    "main.js": "/shirt-cart/static/js/main.09f77d1a.chunk.js",
+    "main.js.map": "/shirt-cart/static/js/main.09f77d1a.chunk.js.map",
+    "runtime-main.js": "/shirt-cart/static/js/runtime-main.fa5afcae.js",
+    "runtime-main.js.map": "/shirt-cart/static/js/runtime-main.fa5afcae.js.map",
+    "static/js/2.6d62db40.chunk.js": "/shirt-cart/static/js/2.6d62db40.chunk.js",
+    "static/js/2.6d62db40.chunk.js.map": "/shirt-cart/static/js/2.6d62db40.chunk.js.map",
+    "static/js/3.842cd146.chunk.js": "/shirt-cart/static/js/3.842cd146.chunk.js",
+    "static/js/3.842cd146.chunk.js.map": "/shirt-cart/static/js/3.842cd146.chunk.js.map",
+    "index.html": "/shirt-cart/index.html",
+    "static/css/main.7efdcee1.chunk.css.map": "/shirt-cart/static/css/main.7efdcee1.chunk.css.map",
+    "static/js/2.6d62db40.chunk.js.LICENSE.txt": "/shirt-cart/static/js/2.6d62db40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa5afcae.js",
+    "static/js/2.6d62db40.chunk.js",
+    "static/css/main.7efdcee1.chunk.css",
+    "static/js/main.09f77d1a.chunk.js"
+  ]
+}
